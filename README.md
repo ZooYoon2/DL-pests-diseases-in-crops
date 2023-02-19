@@ -1,4 +1,6 @@
 # DL-pests-diseases-in-crops
+
+### 2.결과
 ![슬라이드4](https://user-images.githubusercontent.com/91615180/219940096-387436f7-0537-4d3b-b16c-34b847f15e5b.JPG)
 ![슬라이드6](https://user-images.githubusercontent.com/91615180/219940098-f898cc13-e989-4aa1-81a6-764044e9cb07.JPG)
 ![슬라이드7](https://user-images.githubusercontent.com/91615180/219940099-a898d662-aa3f-47f3-a240-eb01353042c0.JPG)
