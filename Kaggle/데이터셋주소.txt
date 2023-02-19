@@ -1,0 +1,1 @@
+https://www.kaggle.com/code/meetnagadia/tomato-leaf-disease-prediction-using-vgg16-and-cnn/data
